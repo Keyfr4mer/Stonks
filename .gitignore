@@ -2,3 +2,8 @@
 /.vscode
 /__pycache__
 /stonks/data/yahoo
+stonks/src/stonks/apis/__pycache__/__init__.cpython-39.pyc
+stonks/testing/.ipynb_checkpoints/transformer_test-checkpoint.ipynb
+stonks/src/stonks/helpers/__pycache__/data.cpython-39.pyc
+stonks/src/stonks/apis/__pycache__/alphavantage_api.cpython-39.pyc
+stonks/testing/transformer.ipynb.bak
